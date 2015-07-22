@@ -1,0 +1,4 @@
+git
+wget
+curl
+software-properties-common
